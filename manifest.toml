@@ -5,7 +5,7 @@ name = "Minecraft"
 description.en = "Three-dimensional sandbox construction game"
 description.fr = "Jeu de construction de type \"bac à sable\" en trois dimensions"
 
-version = "1.21.3~ynh2"
+version = "1.21.4~ynh2"
 
 maintainers = []
 
@@ -61,7 +61,7 @@ ram.runtime = "50M"
         in_subdir = false
 
         [resources.sources.paper]
-        url = "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/128/downloads/paper-1.21.1-128.jar"
+        url = "https://api.papermc.io/v2/projects/paper/versions/1.21.10/builds/117/downloads/paper-1.21.10-117.jar"
         sha256 = "4dab63990686350dbf713f9044991f112cebadb64a44865cd79a5a750b820d91"
         rename = "server.jar"
         in_subdir = false
