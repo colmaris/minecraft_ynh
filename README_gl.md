@@ -24,7 +24,7 @@ Minecraft is a sandbox construction game, whose gameplay involves players intera
 2. Paper
 
 
-**Versión proporcionada:** 1.21.3~ynh2
+**Versión proporcionada:** 1.21.10~ynh2
 ## Documentación e recursos
 
 - Web oficial da app: <https://www.minecraft.net/>

@@ -23,7 +23,7 @@ Minecraft is a sandbox construction game, whose gameplay involves players intera
 1. Minecraft (Vanilla)
 2. Paper
 
-**Поставляемая версия:** 1.21.3~ynh2
+**Поставляемая версия:** 1.21.10~ynh2
 ## Документация и ресурсы
 
 - Официальный веб-сайт приложения: <https://www.minecraft.net/>
